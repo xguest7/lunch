@@ -1,3 +1,4 @@
 son
 gmail->naver
 없는 이메일 테스트
+global 수정해도 local 우선순위가 높음
